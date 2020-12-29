@@ -61,13 +61,9 @@ don't want to affect others or let others affect them). There are also people wh
 
 - => (✘) Don't go around asking server admins for items or just something in general.
 
-- => (★) If an admin is being unfair, contact PulseBeat_02, and we can discuss about it.
-
-- => (★) Violation of any of these rules will result in a demotion, kick, mute, temp-ban, or ban.
-
-- => (★) Thank you for reading the rules.
-
 - => THE RULES ABOVE APPLY TO IRC AS WELL
+
+- => (★) Violation of any of these rules will result in a warning, mute, kick, temp-ban, or ban.
 
 - => Dynmap Information can be found [here](https://github.com/PulseBeat02/SMP-Rules/blob/main/DYNMAP.md)
 
