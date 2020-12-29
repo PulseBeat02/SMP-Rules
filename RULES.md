@@ -53,6 +53,7 @@ don't want to affect others or let others affect them). There are also people wh
       24 hours to switch from war to peaceful. Switching from peaceful to war, there is a 20 minute cooldown which doesn't allow you to be attacked or attack others.
       However, after the 20 minutes, you will have the ability to do so. There is also **combat tags** on the server. It takes 30 minutes after being combat tagged to 
       use the command. The cmbat tag only activates if you attacked someone else. This is so people won't switch to Peaceful Mode in the middle of a battle/war.
+      I coded it such that fist fights for fun won't trigger this. 
 
 - => (★) Keep all Minecraft account information private. We are not responsible to any items being lost.
 
@@ -67,3 +68,5 @@ don't want to affect others or let others affect them). There are also people wh
 - => (★) Thank you for reading the rules.
 
 - => THE RULES ABOVE APPLY TO IRC AS WELL
+
+Notes: At the first week of the server opening, the end will not be allowed to avoid competition. After that, the end will be opened.
