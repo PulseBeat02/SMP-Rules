@@ -44,3 +44,7 @@ other players on the server by using a chat box on the bottom left corner. This 
 server members while also being on the website. The plugin also can identify who you are when you access the website,
 so others will know who is speaking.
 
+**When will the IP be Announced?**
+The IP will be announced tonight likely. I will inform you about such information. 
+
+Thank you for reading.
