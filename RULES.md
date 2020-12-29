@@ -51,7 +51,8 @@ don't want to affect others or let others affect them). There are also people wh
       - When in peaceful mode, you cannot be attacked and you cannot attack others. Others however can still modify your builds (so building can be easier), but if
       someone is doing it for a negative reason there will be punishments no matter what status they are. There is a **cooldown** between switching, where it takes
       24 hours to switch from war to peaceful. Switching from peaceful to war, there is a 20 minute cooldown which doesn't allow you to be attacked or attack others.
-      However, after the 20 minutes, you will have the ability to do so.
+      However, after the 20 minutes, you will have the ability to do so. There is also **combat tags** on the server. It takes 30 minutes after being combat tagged (by
+      other players) to use the command. This is so people won't switch to Peaceful Mode in the middle of a battle/war.
 
 - => (★) Keep all Minecraft account information private. We are not responsible to any items being lost.
 
