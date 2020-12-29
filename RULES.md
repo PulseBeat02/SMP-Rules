@@ -1,15 +1,18 @@
 # Version: 1.0.0
+
+---
+
 ## Rules
 
-- => (★) Be friendly and respectful. No racial slurs, derogatory language, offensive language, etc.
+- (1) Be friendly and respectful. No racial slurs, derogatory language, offensive language, etc.
 
-- => (✘) Spamming or constantly tagging Server Admins is discouraged. You will likely be muted as a result.
+- (2) Spamming or constantly tagging Server Admins is discouraged. You will likely be muted as a result.
 
-- => (✘) Please try to avoid religious/political talk on this server. It will likely lead to negative conflicts.
+- (3) Please try to avoid religious/political talk on this server. It will likely lead to negative conflicts.
 
-- => (★) Posting links is allowed, as long as it doesn't lead to inapropriate content. (such as pornographic content)
+- (4) Posting links is allowed, as long as it doesn't lead to inapropriate content. (such as pornographic content)
 
-- => (✘) Cheating, including using hacked clients or XRAY, is never allowed. This includes the following: 
+- (5) Cheating, including using hacked clients or XRAY, is never allowed. This includes the following: 
 	- Use of Hacked Clients
 	- Use of Macros
 	- Use of X-Ray (You can't even do it because a plugin will stop you from doing it)
@@ -24,7 +27,7 @@
         - Lunar Client
         - More may be added. DM me a choice and I will take deep research about it.
 
-- => (✘) Rules of War are split to the following ->
+- (6) Rules of War are split to the following ->
      - No stealing from others (NOT INVOLED IN THE WAR) during war.
          - The two sides must elaborate together on whether stealing is allowed. If one side says no, then NO its not allowed.
      - If harm/negativity was brought to another side, of course the side can strike back. However, make sure that it isn't an unfair trade.
@@ -38,12 +41,11 @@
      - You may ask, how do I start a war then? Well, wars can be started from incrementing small escalations. What are small escalations? Small harm delivered
        to the opposing side, but not something big all of a sudden such as a massive base explosion out of nowhere.
        
-- => (✘) What about stealing? If you aren't in a war (or not trying to start a war in *small increments*), stealing isn't allowed. 
+- (7) What about stealing? If you aren't in a war (or not trying to start a war in *small increments*), stealing isn't allowed. 
 
-- => (★) Visiting someone's land is allowed, however placing or destroying of blocks without player consent is illegal. The only exception
-        is when the person is giving a gift to them, or the two sides are at war and as I described above, want to make payback to the opposing side.
+- (8) Visiting someone's land is allowed, however placing or destroying of blocks without player consent is illegal. The only exception is when the person is giving  a gift to them, or the two sides are at war and as I described above, want to make payback to the opposing side.
 
-- => (★) So I had this problem originally, where I was dealing with two types of people. I realize that there are some people who just like playing the game, (and
+- (9) So I had this problem originally, where I was dealing with two types of people. I realize that there are some people who just like playing the game, (and
 don't want to affect others or let others affect them). There are also people who favor war. 
       - To fix this, I made a plugin called the war switch. This plugin gives you two plugins:
       - /status set peaceful
@@ -55,18 +57,23 @@ don't want to affect others or let others affect them). There are also people wh
       use the command. The cmbat tag only activates if you attacked someone else. This is so people won't switch to Peaceful Mode in the middle of a battle/war.
       I coded it such that fist fights for fun won't trigger this. 
 
-- => (★) Keep all Minecraft account information private. We are not responsible to any items being lost.
+- (10) Keep all Minecraft account information private. We are not responsible to any items being lost.
 
-- => (✘) Don't repost content -- it is illegal without author permission.
+- (11) (✘) Don't repost content -- it is illegal without author permission.
 
-- => (✘) Don't go around asking server admins for items or just something in general.
+- (12) (✘) Don't go around asking server admins for items or just something in general.
 
-- => THE RULES ABOVE APPLY TO IRC AS WELL
+- (13) THE RULES ABOVE APPLY TO IRC AS WELL
 
-- => (★) Violation of any of these rules will result in a warning, mute, kick, temp-ban, or ban.
+- (14) Violation of any of these rules will result in a warning, mute, kick, temp-ban, or ban.
 
-- => Dynmap Information can be found [here](https://github.com/PulseBeat02/SMP-Rules/blob/main/DYNMAP.md)
+**Note**: At the first week of the server opening, the end will not be allowed to avoid competition. After that, the end will be opened.
 
-- => Contributing to the SMP Plugin can be found [here](https://github.com/PulseBeat02/SMP-Rules/blob/main/CONTRIBUTING.md)
+---
 
-Notes: At the first week of the server opening, the end will not be allowed to avoid competition. After that, the end will be opened.
+## Useful Information
+
+Dynmap Information can be found [here](https://github.com/PulseBeat02/SMP-Rules/blob/main/DYNMAP.md)
+Contributing to the SMP Plugin can be found [here](https://github.com/PulseBeat02/SMP-Rules/blob/main/CONTRIBUTING.md)
+
+
