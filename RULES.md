@@ -69,4 +69,6 @@ don't want to affect others or let others affect them). There are also people wh
 
 - => THE RULES ABOVE APPLY TO IRC AS WELL
 
+- => Dynmap Information can be found [here](https://github.com/PulseBeat02/SMP-Rules/blob/main/DYNMAP.md)
+
 Notes: At the first week of the server opening, the end will not be allowed to avoid competition. After that, the end will be opened.
