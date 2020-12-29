@@ -1,4 +1,4 @@
-# Version: 1.0.0
+# Version: 1.2.6
 
 ---
 
@@ -59,9 +59,9 @@ don't want to affect others or let others affect them). There are also people wh
 
 - (10) Keep all Minecraft account information private. We are not responsible to any items being lost.
 
-- (11) (✘) Don't repost content -- it is illegal without author permission.
+- (11) Don't repost content -- it is illegal without author permission.
 
-- (12) (✘) Don't go around asking server admins for items or just something in general.
+- (12) Don't go around asking server admins for items or just something in general.
 
 - (13) THE RULES ABOVE APPLY TO IRC AS WELL
 
