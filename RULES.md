@@ -71,6 +71,6 @@ don't want to affect others or let others affect them). There are also people wh
 
 - => Dynmap Information can be found [here](https://github.com/PulseBeat02/SMP-Rules/blob/main/DYNMAP.md)
 
-- => Contributing to the SMP Plugin can be found [here](https://github.com/PulseBeat02/SMP-Rules/tree/main)
+- => Contributing to the SMP Plugin can be found [here](https://github.com/PulseBeat02/SMP-Rules/blob/main/CONTRIBUTING.md)
 
 Notes: At the first week of the server opening, the end will not be allowed to avoid competition. After that, the end will be opened.
