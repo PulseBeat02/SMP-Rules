@@ -26,6 +26,7 @@ came together and generated an idea of a very advanced plugin. What is this plug
 plugin is a status plugin, which has two commands:
 
 /status set peaceful
+
 /status set war
 
 When you are in peaceful status, you cannot attack others and others cannot attack you. However,
