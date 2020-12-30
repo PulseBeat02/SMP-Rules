@@ -15,7 +15,8 @@
 - (5) Cheating, including using hacked clients or XRAY, is never allowed. This includes the following: 
 	- Use of Hacked Clients
 	- Use of Macros
-	- Use of X-Ray (You can't even do it because a plugin will stop you from doing it)
+	- Use of X-Ray
+	- Looking at the Dynamic Map to try and Find Ores
 	- Use of Autoclickers
 	- Exploiting
 	- Use of Mods (except Optifine, Shaders, Replay, and Animation Mods)
