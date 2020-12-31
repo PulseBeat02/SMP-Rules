@@ -27,6 +27,7 @@
         - Badlion Client
         - Lunar Client
         - More may be added. DM me a choice and I will take deep research about it.
+        - Note: THE SEED OF THE SERVER CAN ONLY BE USED FOR SLIME CHUNKS. IT CANNOT BE USED FOR ANY OTHER PURPOSES (Finding ores, strongholds, etc)
 
 - (6) Rules of War are split to the following ->
      - No stealing from others (NOT INVOLED IN THE WAR) during war.
