@@ -43,6 +43,16 @@ you do it to me ever again. Sorry, but it ain't your server.
 ---
 
 ### Question
+Does Pulse have the final say?
+
+### Answer
+Yes. He does. If he tells you to not do something (which is either agains't the rules or clearly marked as something used to make
+the game unfair for others), then don't do it! Simple. I rarely ever have to do this, and I hope I don't have to because it's
+annoying.
+
+---
+
+### Question
 If the rules are changed from a later date, can I use the items I have used before? (Example: I steal sugarcane from other people. 
 Then a new rule says that you cannot steal crops from other people's farms. Can I use this sugar cane still?)
 
@@ -59,5 +69,3 @@ Am I opped?
 Oh hell no. 
 
 ---
-
-
