@@ -76,7 +76,9 @@ don't want to affect others or let others affect them). There are also people wh
 ## VERY Useful Information
 
 Frequently Asked Questions can be found [here](https://github.com/PulseBeat02/SMP-Rules/blob/main/FAQ.md)
+
 Dynmap Information can be found [here](https://github.com/PulseBeat02/SMP-Rules/blob/main/DYNMAP.md)
+
 Contributing to the SMP Plugin can be found [here](https://github.com/PulseBeat02/SMP-Rules/blob/main/CONTRIBUTING.md)
 
 
